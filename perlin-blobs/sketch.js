@@ -1,7 +1,7 @@
 let grid_split = 150;
 
 function setup() {
-  createCanvas(300, 300);
+  createCanvas(400, 400);
 }
 
 function draw() {
